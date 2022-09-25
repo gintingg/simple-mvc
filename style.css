@@ -35,8 +35,15 @@ ul {
   margin-top: 100px;
 }
 
-#cahaya {
+/* #cahaya {
   background-color: whitesmoke;
+} */
+
+.on {
+  background-color: yellow;
+}
+.off {
+  background-color:whitesmoke ;
 }
 
 #saklar {
